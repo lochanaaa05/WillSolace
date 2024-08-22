@@ -1,5 +1,10 @@
 {
- "name": "App",
+ "name": "Will Solace",
+ "short_name": "WillSolace",
+ "start_url": "/Will Solace/index.html",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#000000",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
